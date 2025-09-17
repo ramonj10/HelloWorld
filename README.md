@@ -14,4 +14,4 @@ You can watch a demo of it with this link: [Software Demo Video](http://youtube.
 
 {Make a list of websites that you found helpful in this project}
 * [Visual Studio Code & GitHub](http://code.visualstudio.com/docs/editor/versioncontrol)
-* [Pythonm3.13.7](http://docs.python.org/3.0/library/index/html)
+* [Pythonm3.13.7](https://docs.python.org/3/#)
